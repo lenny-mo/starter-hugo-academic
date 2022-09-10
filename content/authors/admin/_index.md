@@ -12,7 +12,6 @@ role: Master of Pattern Recognition
 organizations:
   - name: Xi'an Jiaotong-Liverpool University
     url: https://www.xjtlu.edu.cn/en/
-Email: linli.mo[at]proton.me
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -55,7 +54,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'linli.mo[at]proton.me'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
